@@ -1,0 +1,47 @@
+.topnav{
+    float: right;
+    margin-right: 6%;
+}
+#marquee{
+    background-color: #9fa881;;
+    color: #291f0d;
+}
+#header{
+
+    text-align: center;
+    text-decoration: overline;
+    text-decoration-color: #9fa881;
+    color: #604d2d;
+}
+#logo{
+    margin-top: -1%;
+}
+#column {
+
+    float: left;
+    width: 25%;
+  }
+#row {
+   
+    content: "";
+    display: table;
+    clear: both;
+    color: #422a00;
+}
+#Info{
+    color: #604d2d;
+    text-align: center;
+}
+#contact{
+    margin-top: -29%;
+    margin-left: 73%;
+}
+.footer{
+    position: relative;
+    left: -3px;
+    bottom: -66px;
+    width: 100%;
+    background-color: #9fa881;
+    color: white;
+    text-align: center;
+}
